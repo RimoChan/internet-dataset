@@ -159,6 +159,8 @@ print(load(brotli.decompress(open(path, 'rb').read())))
 
 ## 下载地址
 
+OneDrive<sub> (感谢[@skoqaq](https://github.com/skoqaq)帮我传了OneDrive) </sub>: https://v0vxj-my.sharepoint.com/:f:/g/personal/rimochan_v0vxj_onmicrosoft_com/EqRakuQVVjBDqMyU8xd7NnEB3MZrDZxDwPTVXK7tNv5Rqw?e=cXQMod 
+
 GitHub Release: 在传了，数据太大了所以很慢。
 
 
