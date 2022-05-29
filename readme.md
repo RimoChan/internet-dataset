@@ -159,9 +159,11 @@ print(load(brotli.decompress(open(path, 'rb').read())))
 
 ## 下载地址
 
-OneDrive<sub> (感谢[@skoqaq](https://github.com/skoqaq)帮我传了OneDrive) </sub>: https://v0vxj-my.sharepoint.com/:f:/g/personal/rimochan_v0vxj_onmicrosoft_com/EqRakuQVVjBDqMyU8xd7NnEB3MZrDZxDwPTVXK7tNv5Rqw?e=cXQMod 
+你可以选一个自己喜欢的地方下载: 
 
-GitHub Release: 在传了，数据太大了所以很慢。
+- [GitHub Release](https://github.com/RimoChan/internet-dataset/releases)
+
+- [OneDrive](https://v0vxj-my.sharepoint.com/:f:/g/personal/rimochan_v0vxj_onmicrosoft_com/EqRakuQVVjBDqMyU8xd7NnEB3MZrDZxDwPTVXK7tNv5Rqw?e=cXQMod )<sub> (感谢[@skoqaq](https://github.com/skoqaq)帮我传了OneDrive) </sub>: 
 
 
 ## 赞助
